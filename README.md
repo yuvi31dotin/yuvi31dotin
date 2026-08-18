@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Yuvraj Gupta banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/yuvi31dotin/yuvi31dotin/main/assets/banner.svg" alt="Yuvraj Gupta banner" width="100%"/>
 </p>
 
 <p align="center">
