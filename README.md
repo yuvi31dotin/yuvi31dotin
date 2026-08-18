@@ -1,5 +1,4 @@
-<p align="center">
-  <img <svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="space" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#020108"/>
@@ -329,7 +328,8 @@
   <text x="600" y="168" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-weight="400" font-size="21" letter-spacing="1" fill="#c7d2fe" opacity="0.9">B.Tech IT Student | Aspiring Full Stack Developer</text>
 
   <text x="600" y="200" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-weight="400" font-size="16" letter-spacing="1" fill="#93c5fd" opacity="0.75">Open to Internships</text>
-</svg>/>
+</svg><p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/yuvi31dotin/yuvi31dotin@main/assets/banner.svg" alt="Yuvraj Gupta banner" width="100%"/>
 </p>
 
 <p align="center">
