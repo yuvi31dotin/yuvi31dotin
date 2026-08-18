@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yuvraj%20Gupta&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+the+making;Python+%7C+Java+%7C+JavaScript+%7C+Node.js;Exploring+Cloud+with+Azure+%E2%98%81%EF%B8%8F;DSA+%7C+Problem+Solver+%7C+Fast+Learner" alt="Typing SVG" />
+  <img src="assets/banner.svg" alt="Yuvraj Gupta banner" width="100%"/>
 </p>
 
 <p align="center">
